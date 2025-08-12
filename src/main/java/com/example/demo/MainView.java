@@ -26,7 +26,7 @@ public class MainView extends VerticalLayout {
         this.messageRepository = messageRepository;
 
         // Создаем компоненты
-        H1 title = new H1("Vaadin Chat Application");
+        H1 title = new H1("Vaadin Chat Applicationupdate");
         messageInput = new TextArea("Введите сообщение:");
         messageInput.setWidth("400px");
         messageInput.setMinHeight("100px");
